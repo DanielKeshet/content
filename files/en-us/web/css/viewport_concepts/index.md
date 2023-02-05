@@ -82,7 +82,7 @@ body > footer {
 }
 ```
 
-We got the 800 x 533 measurement when we zoomed in using the keyboard. The header and footer stayed flush against the top and bottom of the window. But what if we had pinched-zoomed on a tablet? What if a dynamic keyboard pops open on a phone?
+Wewe got the 800 x 533 measurement when we zoomed in using the keyboard. The header and footer stayed flush against the top and bottom of the window. But what if we had pinched-zoomed on a tablet? What if a dynamic keyboard pops open on a phone?
 
 The web contains two viewports, the **layout viewport** and the **visual viewport**. The visual viewport is the part of the web page that is currently visible in the browser and can change. When the user pinch-zooms the page, pops open a dynamic keyboard, or when a previously hidden address bar becomes visible, the visual viewport shrinks but the layout viewport is unchanged.
 
